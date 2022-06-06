@@ -1,0 +1,10 @@
+There are some required Libraries which are needed for the code to work properly and the libraries are the following:
+
+1) tkinter
+2) PIL
+3) cv2
+4) numpy
+
+So if you are using this code, download these libraries on your device first.
+
+Thank you!
