@@ -15,6 +15,6 @@ Project Description: Let's say you open two fingers and place them in front of t
 <img width="803" alt="Screen Shot 2022-06-06 at 7 04 54 PM" src="https://user-images.githubusercontent.com/68054356/172188270-ace97348-c6d2-49ef-b6d7-23d751142e5a.png">
 
 
-Demo Video of Project: https://drive.google.com/file/d/13wd7jQftS_YpbbBqsssU1A7VeTZM6QzN/view
+Project Video: https://www.youtube.com/watch?v=kMThPWzLAZ4 
 
 Thank You for Reading!
